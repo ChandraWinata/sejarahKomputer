@@ -24,8 +24,8 @@ Chandra Winata
 3. kendala push dan pull
 
 Billy Kosandhi
-1.
-2.
+1.Sejarah komputer pertama
+2.Kendala push & pull
 3.
 
 Samsul Bahri
@@ -40,8 +40,8 @@ Chandra Winata
 3. kendala -
 
 Billy Kosandhi
-1.
-2.
+1.Tokoh perkembangan komputer
+2.Perangkat keras komputer (Hardware)
 3.
 
 Samsul Bahri
