@@ -3,8 +3,8 @@ Judul Topik : Sejarah Komputer
 Alamat github : https://github.com/ChandraWinata/sejarahKomputer
 alamat trello : https://trello.com/b/GM5VJUSN/sejarah-komputer
 anggota 1 : Chandra winata (12.111.2368)
-anggota 2 : billy kosandhi (12.111.0421)
-anggota 3 : samsul bahri (12.111.0936)
+anggota 2 : Billy kosandhi (12.111.0421)
+anggota 3 : Samsul bahri (12.111.0936)
 
 Sprint 
 sprint 1 : 03/06/2016
@@ -56,9 +56,9 @@ Chandra Winata
 3. kendala -
 
 Billy Kosandhi
-1.
-2.
-3.
+1.Menyusun slide Hardware
+2.Penambahan gambar & pengertian komputer generasi kelima "Packard Bell iXtreme 4140i"
+3.kendala -
 
 Samsul bahri
 1.
