@@ -29,8 +29,8 @@ Billy Kosandhi
 3.
 
 Samsul Bahri
-1.membuat slide pengertian komputer 
-2.kendala -
+1.membuat slide sejarah komputer dan team 
+2.membuat slide pengertian komputer 
 3.membuat slide komputer generasi Tiga dan Empat.
 
 04/06/2016
@@ -46,7 +46,7 @@ Billy Kosandhi
 
 Samsul Bahri
 1.edit bahan slide
-2.
+2.Penambahan bahan slide Komputer generasi Tiga dan Empat
 3.membuat Slide Perangkat Lunak (software)
 
 05/06/2016
@@ -61,8 +61,8 @@ Billy Kosandhi
 3.kendala -
 
 Samsul bahri
-1.
-2.edit bahan slide
+1.Penambahan bahan slide pengertian komputer
+2.kendala-
 3.edit bahan slide
 
 
