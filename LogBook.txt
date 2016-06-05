@@ -4,7 +4,7 @@ Alamat github : https://github.com/ChandraWinata/sejarahKomputer
 alamat trello : https://trello.com/b/GM5VJUSN/sejarah-komputer
 anggota 1 : Chandra winata (12.111.2368)
 anggota 2 : billy kosandhi (12.111.0421)
-anggota 3 : samsul bahri (  )
+anggota 3 : samsul bahri (12.111.0936)
 
 Sprint 
 sprint 1 : 03/06/2016
@@ -29,9 +29,9 @@ Billy Kosandhi
 3.
 
 Samsul Bahri
-1.
-2.
-3.
+1.membuat slide pengertian komputer 
+2.kendala -
+3.membuat slide komputer generasi Tiga dan Empat.
 
 04/06/2016
 Chandra Winata
@@ -45,9 +45,9 @@ Billy Kosandhi
 3.
 
 Samsul Bahri
-1.
+1.edit bahan slide
 2.
-3.
+3.membuat Slide Perangkat Lunak (software)
 
 
 
